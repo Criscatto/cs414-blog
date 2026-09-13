@@ -12,12 +12,14 @@ As I mentioned last time, I'm gonna be the general sound guy for everyone. I've 
 
 My main work this week was getting some basic gameplay soundtrack up and running for Elemental Dungeon, which can be seen below. It was well recieved by the group, which is good news for me; while I don't mind going back to the drawing board for music at this stage of development, it certainly helps to be able to *develop* an idea sooner rather than later.
 
-<img src="./journal03_dawscreenshot.png" alt="Screenshot of my DAW, FL Studio, featuring the project file of the track below">
-
+<img src="./journal03_dawscreenshot.png" alt="Screenshot of my DAW, FL Studio, featuring the project file of the track">
+<!--
 <audio controls>
     <source src="./boss_test_1.mp3" type="audio/mpeg">
 If you're reading this the audio didn't work.
 </audio>
+-->
+Couldn't get the audio player working. I'll be asking Dr. Faas about that later...
 
 I also did some more digging into peer-to-peer multiplayer for Godot, but I'm still figuring out exactly how it works, alongside the laptop I bring to class not running my testing well at all.
 
