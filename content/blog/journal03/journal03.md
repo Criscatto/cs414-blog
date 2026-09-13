@@ -28,6 +28,6 @@ The main blocker for me this week was time. My other classes are giving me quite
 
 My communication could also use some work in terms of frequency I believe. I've been mostly posting only when I have something *done* rather than when I have something *in progress*, so it may help me to be more... trigger-happy? When posting my WIPs. It will be challenging given the workload my other classes have provided me, but it should be doable.
 
-That's about all. Didn't have time to figure out fonts but images and audio are working so that's great! Hopefully I'll have even *more* to show next week.
+That's about all. Didn't have time to figure out fonts but images are working so that's great! Hopefully I'll have even *more* to show next week.
 
 <img src="./journal03_dawscreenshot.png" alt="Screenshot of my DAW, FL Studio, featuring the project file of the track">
