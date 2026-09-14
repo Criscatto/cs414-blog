@@ -15,12 +15,11 @@ My main work this week was getting some basic gameplay soundtrack up and running
 <img src="./journal03_dawscreenshot.png" alt="Screenshot of my DAW, FL Studio, featuring the project file of the track">
 </img>
 
-<!--
 <audio controls>
     <source src="./boss_test_1.mp3" type="audio/mpeg">
 If you're reading this the audio didn't work.
 </audio>
--->
+
 Couldn't get the audio player working on the blog. I'll be asking Dr. Faas about that later...
 
 I also did some more digging into peer-to-peer multiplayer for Godot, but I'm still figuring out exactly how it works, alongside the laptop I bring to class not running my testing well at all.
