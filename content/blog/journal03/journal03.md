@@ -16,8 +16,8 @@ My main work this week was getting some basic gameplay soundtrack up and running
 </img>
 
 <audio controls>
-    <source src="./boss_test_1.mp3" type="audio/mp3">
-If you're reading this the audio didn't work.
+    <source src="https://criscatto.github.io/cs414-blog/blog/journal03/boss_test_1.mp3" type="audio/mp3">
+    <p>If you're reading this the audio didn't work.</p>
 </audio>
 
 I also did some more digging into peer-to-peer multiplayer for Godot, but I'm still figuring out exactly how it works, alongside the laptop I bring to class not running my testing well at all.
