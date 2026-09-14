@@ -12,6 +12,9 @@ As I mentioned last time, I'm gonna be the general sound guy for everyone. I've 
 
 My main work this week was getting some basic gameplay soundtrack up and running for Elemental Dungeon, which can be seen below. It was well recieved by the group, which is good news for me; while I don't mind going back to the drawing board for music at this stage of development, it certainly helps to be able to *develop* an idea sooner rather than later.
 
+<img src="./journal03_dawscreenshot.png" alt="Screenshot of my DAW, FL Studio, featuring the project file of the track">
+</img>
+
 <!--
 <audio controls>
     <source src="./boss_test_1.mp3" type="audio/mpeg">
@@ -29,5 +32,3 @@ The main blocker for me this week was time. My other classes are giving me quite
 My communication could also use some work in terms of frequency I believe. I've been mostly posting only when I have something *done* rather than when I have something *in progress*, so it may help me to be more... trigger-happy? When posting my WIPs. It will be challenging given the workload my other classes have provided me, but it should be doable.
 
 That's about all. Didn't have time to figure out fonts but images are working so that's great! Hopefully I'll have even *more* to show next week.
-
-<img src="./journal03_dawscreenshot.png" alt="Screenshot of my DAW, FL Studio, featuring the project file of the track">
